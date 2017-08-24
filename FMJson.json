@@ -1,13 +1,8 @@
 [
-
 	{
-
 		"id": "1",
-
 		"name": "Новое радио(Минск)",
-
 		"url": "http: //lifemusic.su/online/221.m3u"
-
 	},
 
 	{
@@ -55,6 +50,4 @@
 		"name": "Лидер FM(Лида)",
 		"url": "http: //lider-fm.by:8000/radio"
 	}
-
-
 ]
