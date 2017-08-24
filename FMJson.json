@@ -1,57 +1,53 @@
-{
-  "colors": [
-    {
-      "color": "black",
-      "category": "hue",
-      "type": "primary",
-      "code": {
-        "rgba": [255,255,255,1],
-        "hex": "#000"
-      }
-    },
-    {
-      "color": "white",
-      "category": "value",
-      "code": {
-        "rgba": [0,0,0,1],
-        "hex": "#FFF"
-      }
-    },
-    {
-      "color": "red",
-      "category": "hue",
-      "type": "primary",
-      "code": {
-        "rgba": [255,0,0,1],
-        "hex": "#FF0"
-      }
-    },
-    {
-      "color": "blue",
-      "category": "hue",
-      "type": "primary",
-      "code": {
-        "rgba": [0,0,255,1],
-        "hex": "#00F"
-      }
-    },
-    {
-      "color": "yellow",
-      "category": "hue",
-      "type": "primary",
-      "code": {
-        "rgba": [255,255,0,1],
-        "hex": "#FF0"
-      }
-    },
-    {
-      "color": "green",
-      "category": "hue",
-      "type": "secondary",
-      "code": {
-        "rgba": [0,255,0,1],
-        "hex": "#0F0"
-      }
-    },
-  ]
-}
+[
+	{
+		"id": "1",
+		"name": "Новое радио(Минск)",
+		"url": "http: //lifemusic.su/online/221.m3u"
+	},
+
+	{
+		"id": "2",
+		"name": "Мелодии века 96.2 FM",
+		"url": "http: //87.252.252.78:8000/MV.m3u"
+	},
+	{
+		"id": "3",
+		"name": "Radio Unistar 99.5 FM",
+		"url": "http: //unistar.by:8000/unistar-128kb.m3u"
+	},
+	{
+		"id": "4",
+		"name": "Гомель FM 101.3 FM",
+		"url": "http: //s1.radioheart.ru:8001/radiogomelfm.m3u"
+	},
+	{
+		"id": "5",
+		"name": "Radio BRUTTO",
+		"url": "http: //brut.to/RadioBrutto.m3u"
+	},
+	{
+		"id": "6",
+		"name": "Местное радио(Минск) 102.0 FM",
+		"url": "http: //www.mestnoe.com/pp_mestnoe_radio_2010.mp3"
+	},
+	{
+		"id": "7",
+		"name": "Radio Aplus Relax",
+		"url": "http: //shoutcast.aplus.by:9000/aplus_relax_256"
+	},
+	{
+		"id": "8",
+		"name": "Душевное радио 105.7 FM",
+		"url": "http: //imgradio.pro:80/DushevnoeRadio48"
+	},
+	{
+		"id": "9",
+		"name": "Радио Ранак(Светлогорск)",
+		"url": "http: //www.draiv.by:8000/ranak"
+	},
+	{
+		"id": "10",
+		"name": "Лидер FM(Лида)",
+		"url": "http: //lider-fm.by:8000/radio"
+	}
+]
